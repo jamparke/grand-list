@@ -1,6 +1,6 @@
-<div style='text-align: center;'>
+<!-- <div style='text-align: center;'>
 <img style="width:20%;" src="devlistlogo.png">
-</div>
+</div> -->
 
 ## HTML/CSS Resources
 #### [Learn CSS Layout](http://learnlayout.com/)
