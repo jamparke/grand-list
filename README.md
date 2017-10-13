@@ -1,5 +1,5 @@
 <div style='text-align: center;'>
-<img src="devlistlogo.png">
+<img style="width:20%;" src="devlistlogo.png">
 </div>
 
 ## HTML/CSS Resources
