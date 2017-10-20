@@ -2,9 +2,25 @@
 <img style="width:20%;" src="devlistlogo.png">
 </div> -->
 
+# The DevList
+ A hopefully ever-growing list of web-development related resources
+ ----------
+## Project Inspiration
+
+#### [WebDevChallenge](https://github.com/jlem/WebDevChallenge)
+Project ideas and inspiration
+
+#### [1000_Projects](https://github.com/vicky002/1000_Projects)
+Mega List of practical projects that one can solve in any programming language!
+#### [A list of project ideas as provided by /r/webdev users](https://www.reddit.com/r/webdev/comments/5rwkm2/a_list_of_project_ideas_as_provided_by_rwebdev/)
+Project ideas and inspiration
+
+#### [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/)
+Project ideas with links to original project repositories.
+
 ## HTML/CSS Resources
 #### [Learn CSS Layout](http://learnlayout.com/)
-**Free** Tips, Tricks, and Techniques on using Cascading Style Sheets. 
+**Free** Tips, Tricks, and Techniques on using Cascading Style Sheets
 *(CSS)*
 
 #### [goodui](http://www.goodui.org/)
@@ -32,3 +48,6 @@
 #### [Great CSS reference - cssreference.io](http://cssreference.io/)
 **Free** CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 *(CSS)*
+
+
+
