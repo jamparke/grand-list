@@ -2,10 +2,20 @@
 <img style="width:20%;" src="devlistlogo.png">
 </div> -->
 
-# The DevList
+## The DevList
  A hopefully ever-growing list of web-development related resources
  ----------
-## Project Inspiration
+
+## Contents
+
+- [Development Project Ideas](#development-project-ideas)
+- [HTML & CSS Resources](#html-&-css-resources)
+- [Eslint Setup Guides](#eslint-setup-guides)
+- [Back-End Development](#back-end-development)
+- [Computer Science](#computer-science)
+- [Big Data](#big-data)
+
+## Development Project Ideas
 
 #### [WebDevChallenge](https://github.com/jlem/WebDevChallenge)
 Project ideas and inspiration
@@ -18,7 +28,7 @@ Project ideas and inspiration
 #### [/r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/)
 Project ideas with links to original project repositories.
 
-## HTML/CSS Resources
+## HTML & CSS Resources
 #### [Learn CSS Layout](http://learnlayout.com/)
 **Free** Tips, Tricks, and Techniques on using Cascading Style Sheets
 *(CSS)*
@@ -38,7 +48,6 @@ Project ideas with links to original project repositories.
 **Free** code challenges. Compare your solution with those of others.  
 *(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
 
-
 #### [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css)
 **Free** A useful list of must-watch talks about CSS  
 *(CSS)*
@@ -49,5 +58,7 @@ Project ideas with links to original project repositories.
 **Free** CSS Reference is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 *(CSS)*
 
+## Eslint Setup Guides
+[Create-react-app with EsLint, Prettier, and AirBnB](https://github.com/jamparke/eslint-config-airbnb-setup)
 
 
