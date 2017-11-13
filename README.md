@@ -5,14 +5,14 @@
 ## The DevList
 
 #### An ever-growing list of web-development resources
- ----------
+ 
 
 ## Contents
 
 - [Development Project Ideas](#development-project-ideas)
 - [HTML & CSS Resources](#html-&-css-resources)
 - [Eslint Setup Guides](#eslint-setup-guides)
-----------
+
 
 
 ## Development Project Ideas
